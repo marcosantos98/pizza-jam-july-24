@@ -1,0 +1,10 @@
+Tileset: 
+https://essssam.itch.io/rocky-roads
+Character: 
+https://free-game-assets.itch.io/villagers-sprite-sheets-free-pixel-art-pack
+Cup of Coffe: 
+https://skalding.itch.io/coffee-cup-001
+Trophies:
+https://buddy-games.itch.io/trophies-sprites
+Land, Jump Sounds:
+https://opengameart.org/content/12-player-movement-sfx

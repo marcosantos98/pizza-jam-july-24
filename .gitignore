@@ -1,0 +1,6 @@
+build/
+compile_commands.json
+main.exe
+main.obj
+main.pdb
+raylib.dll
